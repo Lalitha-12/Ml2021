@@ -1,14 +1,12 @@
 # Ml2021
 OBJECTIVE:
       Chatbot which give information about capitals of countrys
-Description:
+#Description:
         my chatbot helps to find capitals of countries which ere enterd by the user.first it greets user and asks users name and welcomes user based upon the time they used it
         after it asks user to enter the country which they want to know the capital then it gives the capital of the country and the currency of the country as output.
-Block diagram:
-              
-
- 
-CODE:
+#Block diagram:
+      ![Screenshot (46)](https://user-images.githubusercontent.com/73027128/96423573-22a94b00-1217-11eb-8a3a-f054dc0771fb.png)
+#CODE:
 import random
 from datetime import datetime
 from countryinfo import CountryInfo
@@ -47,7 +45,7 @@ def bot():
     capital()
 bot() 
 youtube link:
-           
+       https://youtu.be/7jGio8Kn-ZU
 
 
 online reference link:
