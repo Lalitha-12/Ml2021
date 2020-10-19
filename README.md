@@ -5,10 +5,11 @@ Description:
         my chatbot helps to find capitals of countries which ere enterd by the user.first it greets user and asks users name and welcomes user based upon the time they used it
         after it asks user to enter the country which they want to know the capital then it gives the capital of the country and the currency of the country as output.
 Block diagram:
+                  blob:https://web.whatsapp.com/b138809a-7a96-4f50-b01b-b7c3f5505364
 
  
 CODE:
-      import random
+import random
 from datetime import datetime
 from countryinfo import CountryInfo
 def greeting():
@@ -46,7 +47,7 @@ def bot():
     capital()
 bot() 
 youtube link:
-
+           
 
 
 online reference link:
