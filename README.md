@@ -1,6 +1,6 @@
 # Ml2021
 OBJECTIVE:
-      Chatbot which give information about capitals of countrys
+      Chatbot which give information about capitals and currency of countrys
 #Description:
        * This chatbot greets person and asks user for name
        * After it greets based on the time and asks user to enter the name of the country which he needs the caapital and currency 
