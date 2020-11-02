@@ -6,7 +6,7 @@ OBJECTIVE:
        * After it greets based on the time and asks user to enter the name of the country which he needs the caapital and currency 
        * Based on the user input it prints the output (country capital and currency)
 youtube link:
-      https://studio.youtube.com/video/FkdSjHerDV4/edit
+      https://youtu.be/FkdSjHerDV4
 
 
 online reference link:
